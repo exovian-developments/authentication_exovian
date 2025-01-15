@@ -17,7 +17,8 @@ Flutter package that provides Firebase authentication.
 
 Supports the following options:
 
- - Email and password authentication.
+ - Email and password authentication
+ - Reset password
 
 ## Getting started
 
